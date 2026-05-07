@@ -1,2 +1,2 @@
 # IETR
-Link: https://kovlik.github.io/
+Link: https://ylatushkov02.github.io/
